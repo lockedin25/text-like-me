@@ -1,6 +1,6 @@
 # What this release preserves
 
-The public package is an extraction of the workflow used for the third personal model, named V4 at publication. It is not a claim of a newly trained checkpoint.
+The public package is an extraction of the workflow used for the third personal model, published as Text Like Me. It is not a claim of a newly trained checkpoint.
 
 | Part | Public implementation |
 |---|---|

@@ -1,8 +1,8 @@
-# V4 · A recipe for a model that texts like you
+# Text Like Me
 
 Export a conversation, preserve how you actually text, build dated memory, review the training data, run small LoRA pilots, compare them, and collect corrections from local use.
 
-This repository packages the workflow from my V3 experiment. **V4 is the public recipe's name, not a claim that a fourth personal model has been trained.** It contains code, configuration templates, fictional fixtures, prompts and the reasoning behind the process. It contains no real chat exports, personal memories, images, adapters, credentials or private experiment logs.
+This repository packages the workflow from my V3 experiment. It contains code, configuration templates, fictional fixtures, prompts and the reasoning behind the process. It contains no real chat exports, personal memories, images, adapters, credentials or private experiment logs.
 
 [The essay](https://sskorde.com/writing/fine-tuning-again/) · [Project](https://sskorde.com/projects/personal-chat-v4/) · [16-step runbook](docs/RUNBOOK.md) · [Failure modes](docs/FAILURE_MODES.md)
 
@@ -11,8 +11,8 @@ This repository packages the workflow from my V3 experiment. **V4 is the public 
 Python 3.12 or 3.13 and [uv](https://docs.astral.sh/uv/) are enough for the fictional offline demo:
 
 ```bash
-git clone https://github.com/lockedin25/V4.git
-cd V4
+git clone https://github.com/lockedin25/text-like-me.git
+cd text-like-me
 uv sync --extra dev
 uv run python scripts/demo.py
 uv run pytest -q
