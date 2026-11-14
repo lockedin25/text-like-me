@@ -1,0 +1,32 @@
+# All names and dates in examples are fictional. Copy outside this repository.
+work_dir = "~/chat-recipe-work"
+export = "examples/chat.txt"
+date_order = "DMY"
+self_sender = "Alex"
+other_sender = "Sam"
+self_name = "Alex"
+other_name = "Sam"
+model = "google/gemma-4-12B-it"
+mlx_model = "mlx-community/gemma-4-12B-it-4bit"
+# Optional immutable Hugging Face commit. Both preparation and training must use it.
+model_revision = "main"
+valid_start = "2026-02-01"
+test_start = "2026-03-01"
+recent_start = "2026-01-01"
+max_len = 3072
+prompt_budget = 2944
+max_turns = 40
+burst_seconds = 180
+gap_minutes = 45
+# Other languages remain visible in the English-only fallback.
+language = "mixed"
+explicit_local_training = false
+api_enabled = false
+api_base = "https://models.jarvislabs.net/v1"
+writer_model = "glm-5.3"
+reviewer_model = "deepseek-v4.1-flash-1017"
+api_max_calls = 25
+api_max_output_tokens = 1600
+api_input_char_limit = 24000
+# OpenRouter alternative: api_base="https://openrouter.ai/api/v1"
+# Set writer_model/reviewer_model to the exact IDs returned by that provider.

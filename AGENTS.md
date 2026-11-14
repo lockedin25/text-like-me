@@ -1,0 +1,2 @@
+# V4 recipe
+This is the public, data-free extraction of a private conversational fine-tuning workflow. Never copy exports, screenshots, memories, adapters, logs, tokens, local absolute paths or private research notes here. Fixtures must be fictional. Every training and runtime change must preserve shared rendering, strict historical memory cutoffs and checked supervision boundaries. Run pytest and scripts/audit_public.py before pushing. Do not invoke subagents. No Personal Wiki reflection for this fine-tuning project.

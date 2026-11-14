@@ -1,0 +1,1 @@
+Review this exact training window and its masks. Flag speaker confusion, broken context, assistant-like phrasing, invented facts, future memory, ungrounded media, language mismatch, target contamination and unnatural burst shapes. A long reply is not automatically good. Preserve original language. Suggest issues; never silently rewrite or approve data on behalf of its owner.

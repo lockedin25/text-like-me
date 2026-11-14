@@ -1,0 +1,1 @@
+Extract a small set of facts and a compact historical summary from this dated block. Attribute facts to self, other or shared. Preserve uncertainty. Do not convert an old plan into current state. Use a stable predicate such as job or preferred_sport. Do not invent names, dates or numbers. Return summary records for historical events.

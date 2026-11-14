@@ -1,0 +1,1 @@
+Infer only what the surrounding text supports. You cannot see an image. Propose a short neutral bridge when warranted; otherwise leave bridge empty. Never claim unseen visual details. Mark depends_on_unseen conservatively. Treat subsequent messages as clues for context repair, never as proof of image contents.

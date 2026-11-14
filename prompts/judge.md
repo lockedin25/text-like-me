@@ -1,0 +1,1 @@
+Rate coherence, factual grounding against supplied memory, and style similarity, each 1–5. Flag Hindi/Hinglish gibberish, missed negation, repetition, invented plans and cold hanging replies. Your style judgment is advisory; only the human owner can judge whether a reply sounds like them. Do not treat a plausible invented fact as grounded.
